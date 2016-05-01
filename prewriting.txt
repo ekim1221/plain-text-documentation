@@ -1,13 +1,14 @@
-#Stuff I know about ____:
-#link
+#Stuff I know about ALS:
+#http://www.alsa.org/about-als/what-is-als.html
 #and Wikipedia
-#link
+#https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis
 
 prewriting
-1
-2
-3
-4
-5
-6
+1. ALS - amyotrophic lateral sclerosis
+2. progressive neurodegenerative disease that involved the death of neurons.
+3. when neurons die the ability to control muscle movement is lost.
+4. two types: sporadic and familial
+5. No cure
+6. Diagnosis is difficult
+7. Research focuses on finding a cure and learning more about ALS
 done
